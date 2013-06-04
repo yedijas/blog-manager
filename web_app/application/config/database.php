@@ -49,8 +49,8 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost:3306';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'omeoo';
+$db['default']['username'] = 'your_user_here';
+$db['default']['password'] = 'your_password_here';
 $db['default']['database'] = 'blogmanager';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
