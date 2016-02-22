@@ -1,11 +1,9 @@
 <?php
 /**
 Plugin Name: Blog Manager
-PLugin URI: http://omeoo.com
-Description: Plugin to let your blog being managed by Omeoo Media
 Version: 0.1
-Author: Aditya Situmeang (Omeoo Media)
-Author URI: http://adityayedija.wordpress.com/
+Author: Aditya Situmeang
+Author URI: http://adityayedija.com/
 */
 if (!class_exists("BlogManager")){
 	class BlogManager{
